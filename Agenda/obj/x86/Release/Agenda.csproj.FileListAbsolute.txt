@@ -1,0 +1,9 @@
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\bin\Release\Agenda.exe
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\bin\Release\Agenda.pdb
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Release\Agenda.Form1.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Release\Agenda.FormTaken.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Release\Agenda.FormWekker.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Release\Agenda.Properties.Resources.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Release\Agenda.csproj.GenerateResource.Cache
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Release\Agenda.exe
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Release\Agenda.pdb

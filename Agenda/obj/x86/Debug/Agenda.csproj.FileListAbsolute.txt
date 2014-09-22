@@ -1,0 +1,12 @@
+C:\Users\Dick\AppData\Local\Temporary Projects\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+C:\Users\Dick\AppData\Local\Temporary Projects\Agenda\obj\x86\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.Form1.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.FormTaken.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.FormWekker.resources
